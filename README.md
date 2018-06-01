@@ -12,4 +12,4 @@ I got class imbalance for target variable.
 I upsampled  the training set and tested on imbalance data.I used AUC-ROC as my metric to evaluate the model performance
 
 
-I want to increase features and run more machine learning algorithm . 
+I'm still working on the project , I will  increase features and fill the missing value with statictial imputational values  and run more machine learning algorithms . 
