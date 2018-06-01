@@ -1,0 +1,12 @@
+#prediction  US_Permanent_Visa
+
+
+
+
+#In this  project  data set consist of  385,000 rows and 158 columns , 80 percent of the columns have missing values and I dropped them , remaining columns I filled the missing values with mode,some columns not available.
+
+
+I used label enconder to convert text data to numerical data which will save time during execution.
+
+
+I want to increase features and run more machine learning algorithm . 
