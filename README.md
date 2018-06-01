@@ -8,5 +8,8 @@
 
 I used label enconder to convert text data to numerical data which will save time during execution.
 
+I got class imbalance for target variable. 
+I upsampled  the training set and tested on imbalance data.I used AUC-ROC as my metric to evaluate the model performance
+
 
 I want to increase features and run more machine learning algorithm . 
